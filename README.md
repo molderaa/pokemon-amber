@@ -2,3 +2,38 @@
 - implement dynamic weather that changes encounters
 - implement trainer rematch with level scaling
 - look into adding sideways stairs that don't conflict with followers
+
+#Credits
+- Maruno
+- Lucidious89
+- NoNoNever
+- Caruban
+- Dr.Doom76
+- mGriffin
+- Khaikaa
+- Vendily
+- Marin
+- Phantombass
+- Mashirosakura
+- Golisopod User
+- D0vid
+- Manurocker95
+- DiegoWT
+- Swdfm
+- ENLS
+- ThatWelshOne_
+- Boonzeet
+- LinKazamine
+- Mr.Gela
+- mej71
+- battlelegendblue
+- Help-14
+- zingzags
+- Rayd12smitty
+- Venom12
+- PurpleZaffre
+- Akizakura16
+- Thundaga
+- Armin
+- Chubbichu
+- Grogro
