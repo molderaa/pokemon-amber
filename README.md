@@ -10,7 +10,7 @@
 - IV/EV changes
 
 # To-do
-- implement dynamic weather that changes encounters
+- implement dynamic weather that changes encounters [table](https://github.com/molderaa/pokemon-amber-weather-encounter-table/blob/main/weather%20encounter%20table.csv])
 - implement trainer rematch with level scaling
 - look into adding sideways stairs that don't conflict with followers
 
