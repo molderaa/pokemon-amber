@@ -3,7 +3,7 @@
 - implement trainer rematch with level scaling
 - look into adding sideways stairs that don't conflict with followers
 
-#Credits
+# Credits
 - Maruno
 - Lucidious89
 - NoNoNever
