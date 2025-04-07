@@ -1,3 +1,14 @@
+# Features/Info
+- gen 1-9 mons
+- FR/LG overworld
+- gen 5 animated battle sprites
+- honey trees with real world timer
+- headbutt trees
+- followers
+- apricorn system
+- berry changes
+- IV/EV changes
+
 # To-do
 - implement dynamic weather that changes encounters
 - implement trainer rematch with level scaling
