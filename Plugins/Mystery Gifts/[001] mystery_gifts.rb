@@ -1,0 +1,3 @@
+module MysteryGift
+  URL = ""
+end

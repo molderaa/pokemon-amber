@@ -1,0 +1,13 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[BEEDRILL,2]
+FormName = Super Beedrill
+BaseStats = 65,105,40,85,45,80
+BaseExp = 284
+Abilities = SNIPER
+#-------------------------------
+[HYPNO,1]
+FormName = Super Hypno
+BaseStats = 85,83,70,67,73,115
+BaseExp = 284
+Abilities = INNERFOCUS

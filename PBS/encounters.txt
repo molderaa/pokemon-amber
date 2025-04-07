@@ -1,0 +1,384 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[006] # Route 1
+Land,5
+    40,RATTATA,5,6
+    10,ZIGZAGOON,5,6
+    10,PIDGEY,5,6
+    40,SENTRET,5,6
+LandNight,5
+    60,RATTATA_1,5,6
+    30,HOOTHOOT,5,6
+    10,ZIGZAGOON_1,5,6
+#-------------------------------
+[007] # Route 1
+Land,5
+    5,NIDORANfE,5,6
+    5,NIDORANmA,5,6
+    35,RATTATA,5,6
+    10,ZIGZAGOON,5,6
+    10,PIDGEY,5,6
+    35,SENTRET,5,6
+LandNight,5
+    60,RATTATA_1,5,6
+    30,HOOTHOOT,5,6
+    10,ZIGZAGOON_1,5,6
+#-------------------------------
+[008] # Route 1
+Land,5
+    22,CATERPIE,5,6
+    22,WEEDLE,5,6
+    22,SEWADDLE,6,7
+    10,NINCADA,6,7
+HeadbuttLow
+    30,SEEDOT,14,15
+    15,PINECO,14,15
+    10,BURMY,14,15
+    30,PIDGEY,14,15
+    10,HOOTHOOT,14,15
+    5,FLETCHLING,14,15
+HeadbuttHigh
+    30,SEEDOT,14,15
+    15,PINECO,14,15
+    10,BURMY,14,15
+    30,PIDGEY,14,15
+    10,HOOTHOOT,14,15
+    5,FLETCHLING,14,15
+#-------------------------------
+[009] # Route 1
+Land,5
+    22,CATERPIE,5,6
+    22,WEEDLE,5,6
+    22,SEWADDLE,6,7
+    10,NINCADA,6,7
+HeadbuttLow
+    30,SEEDOT,14,15
+    15,PINECO,14,15
+    10,BURMY,14,15
+    30,PIDGEY,14,15
+    10,HOOTHOOT,14,15
+    5,FLETCHLING,14,15
+HeadbuttHigh
+    30,SEEDOT,14,15
+    15,PINECO,14,15
+    10,BURMY,14,15
+    30,PIDGEY,14,15
+    10,HOOTHOOT,14,15
+    5,FLETCHLING,14,15
+HoneyTree
+    53,SLAKOTH,7,8
+    20,PARAS,7,8
+    20,CHERUBI,7,8
+    2,COMBEE,7,8
+    5,PINSIR,7,8
+#-------------------------------
+[016] # Route 2
+Land,5
+    10,SHROOMISH,13,15
+    70,KRICKETOT,13,15
+    20,VENIPEDE,13,15
+LandNight,5
+    45,RATTATA_1,13,15
+    45,HOOTHOOT,13,15
+    10,ZIGZAGOON_1,13,15
+#-------------------------------
+[032] # Lost Woods
+Land,5
+    20,SPINARAK,13,15
+    20,GRUBBIN,13,15
+    20,VENONAT,13,15
+    20,BELLSPROUT,13,15
+Special,5
+    10,ODDISH,13,15
+    25,SPINARAK,13,15
+    25,GRUBBIN,13,15
+    20,VENONAT,13,15
+    20,BELLSPROUT,13,15
+LandNight,5
+    10,GASTLY,15,16
+    40,PHANTUMP,13,15
+    50,MURKROW,13,15
+HeadbuttLow
+    25,SEEDOT,14,16
+    20,BURMY,14,16
+    10,FERROSEED,14,16
+    25,HOOTHOOT,14,16
+    10,PINECO,14,16
+    10,PIDGEY,14,15
+HeadbuttHigh
+    25,SEEDOT,14,16
+    20,BURMY,14,16
+    10,FERROSEED,14,16
+    25,HOOTHOOT,14,16
+    10,PINECO,14,16
+    10,PIDGEY,14,15
+#-------------------------------
+[033] # Route 2
+Land,5
+    5,SHROOMISH,13,15
+    75,KRICKETOT,13,15
+    20,VENIPEDE,13,15
+Special,5
+    5,SHROOMISH,13,15
+    65,KRICKETOT,13,15
+    20,VENIPEDE,13,15
+    10,MACHOP,13,15
+LandNight,5
+    45,RATTATA_1,13,15
+    45,HOOTHOOT,13,15
+    10,ZIGZAGOON_1,13,15
+#-------------------------------
+[034] # Kela Cave
+Cave,5
+    2,NOSEPASS,14,15
+    38,GEODUDE,13,15
+    50,ZUBAT,13,15
+    10,ONIX,14,16
+RockSmash,50
+    10,NOSEPASS,13,14
+    90,GEODUDE,12,15
+#-------------------------------
+[039] # Kela Cave
+Cave,5
+    2,NOSEPASS,14,15
+    38,GEODUDE,13,15
+    40,ZUBAT,13,15
+    10,WOOBAT,14,16
+    10,DWEBBLE,14,16
+#-------------------------------
+[048] # Kela Cave
+Cave,5
+    2,NOSEPASS,14,15
+    38,GEODUDE,13,15
+    40,ZUBAT,13,15
+    10,WOOBAT,14,16
+    10,CARBINK,14,16
+#-------------------------------
+[020] # Route 2
+Land,5
+    10,LEDYBA,13,15
+    5,BUNNELBY,7,8
+    15,VENIPEDE,13,15
+    50,SPEAROW,15,17
+    20,SKITTY,15,17
+LandNight,5
+    43,RATTATA_1,13,15
+    45,HOOTHOOT,13,15
+    10,ZIGZAGOON_1,13,15
+    2,RALTS,13,15
+#-------------------------------
+[017] # Route 2
+Land,5
+    10,LEDYBA,13,15
+    35,VENIPEDE,13,15
+    50,SPEAROW,15,17
+    20,SKITTY,15,17
+LandNight,5
+    43,RATTATA_1,13,15
+    45,HOOTHOOT,13,15
+    10,ZIGZAGOON_1,13,15
+    2,RALTS,13,15
+#-------------------------------
+[018] # Route 2
+Land,5
+    10,LEDYBA,13,15
+    5,BLIPBUG,7,8
+    35,VENIPEDE,13,15
+    50,SPEAROW,15,17
+    20,SKITTY,15,17
+LandNight,5
+    43,RATTATA_1,13,15
+    45,HOOTHOOT,13,15
+    10,ZIGZAGOON_1,13,15
+    2,RALTS,13,15
+#-------------------------------
+[019] # Route 2
+Land,5
+    10,LEDYBA,13,15
+    35,VENIPEDE,13,15
+    50,SPEAROW,15,17
+    20,SKITTY,15,17
+    2,MAREEP,12,13
+LandNight,5
+    43,RATTATA_1,13,15
+    45,HOOTHOOT,13,15
+    10,ZIGZAGOON_1,13,15
+    2,RALTS,13,15
+#-------------------------------
+[026] # Route 3
+Land,5
+    10,PSYDUCK,20,23
+    20,EXEGGCUTE,20,25
+    48,SHELLOS,15,17
+    20,MEOWTH,15,17
+    2,PIKACHU,12,13
+LandNight,5
+    5,HOUNDOUR,17,18
+    60,HOOTHOOT,13,15
+    35,LOKIX,13,15
+OldRod
+    78,MAGIKARP,10,14
+    10,POLIWAG,15,17
+    10,GOLDEEN,15,17
+    2,BARBOACH,15,17
+HeadbuttLow
+    5,AIPOM,14,16
+    35,HOOTHOOT,14,16
+    35,PINECO,14,16
+    25,STARLY,14,15
+HeadbuttHigh
+    5,AIPOM,14,16
+    35,HOOTHOOT,14,16
+    35,PINECO,14,16
+    25,STARLY,14,15
+#-------------------------------
+[025] # Route 3
+Land,5
+    10,PSYDUCK,20,23
+    20,EXEGGCUTE,20,25
+    48,SHELLOS,15,17
+    20,MEOWTH,15,17
+    2,PIKACHU,12,13
+LandNight,5
+    5,HOUNDOUR,17,18
+    60,HOOTHOOT,13,15
+    35,LOKIX,13,15
+OldRod
+    78,MAGIKARP,10,14
+    10,POLIWAG,15,17
+    10,GOLDEEN,15,17
+    2,BARBOACH,15,17
+HeadbuttLow
+    5,AIPOM,14,16
+    35,HOOTHOOT,14,16
+    35,PINECO,14,16
+    25,STARLY,14,15
+HeadbuttHigh
+    5,AIPOM,14,16
+    35,HOOTHOOT,14,16
+    35,PINECO,14,16
+    25,STARLY,14,15
+#-------------------------------
+[028] # Route 3
+Land,5
+    10,PSYDUCK,20,23
+    20,EXEGGCUTE,20,25
+    48,SHELLOS,15,17
+    20,MEOWTH,15,17
+    2,PIKACHU,12,13
+Special,5
+    10,LOTAD,10,13
+    2,TOEDSCOOL,18,20
+    10,PSYDUCK,20,23
+    20,EXEGGCUTE,20,25
+    36,SHELLOS,15,17
+    20,MEOWTH,15,17
+    2,PIKACHU,12,13
+SpecialNight,5
+    10,LOTAD,10,13
+    2,TOEDSCOOL,18,20
+    5,HOUNDOUR,17,18
+    48,HOOTHOOT,13,15
+    35,LOKIX,13,15
+LandNight,5
+    5,HOUNDOUR,17,18
+    60,HOOTHOOT,13,15
+    35,LOKIX,13,15
+OldRod
+    78,MAGIKARP,10,14
+    10,POLIWAG,15,17
+    10,GOLDEEN,15,17
+    2,BARBOACH,15,17
+HeadbuttLow
+    5,AIPOM,14,16
+    35,HOOTHOOT,14,16
+    35,PINECO,14,16
+    25,STARLY,14,15
+HeadbuttHigh
+    5,AIPOM,14,16
+    35,HOOTHOOT,14,16
+    35,PINECO,14,16
+    25,STARLY,14,15
+#-------------------------------
+[030] # Route 3
+Land,5
+    10,PAWMI,17,18
+    5,VULPIX,20,25
+    48,HOPPIP,15,17
+    20,MEOWTH,15,17
+    2,PIKACHU,12,13
+LandNight,5
+    35,NATU,17,18
+    60,HOOTHOOT,13,15
+    5,DUSKULL,13,15
+#-------------------------------
+[031] # Route 3
+Land,5
+    10,PAWMI,17,18
+    5,VULPIX,20,25
+    48,HOPPIP,15,17
+    20,MEOWTH,15,17
+    2,PIKACHU,12,13
+LandNight,5
+    35,NATU,17,18
+    60,HOOTHOOT,13,15
+    5,DUSKULL,13,15
+HeadbuttLow
+    5,FOMANTIS,14,16
+    35,HOOTHOOT,14,16
+    35,PINECO,14,16
+    25,STARLY,14,15
+HeadbuttHigh
+    5,FOMANTIS,14,16
+    35,HOOTHOOT,14,16
+    35,PINECO,14,16
+    25,STARLY,14,15
+#-------------------------------
+[035] # Route 3
+Land,5
+    10,PAWMI,17,18
+    5,VULPIX,20,25
+    48,HOPPIP,15,17
+    20,MEOWTH,15,17
+    2,PIKACHU,12,13
+LandNight,5
+    35,NATU,17,18
+    60,HOOTHOOT,13,15
+    5,DUSKULL,13,15
+HeadbuttLow
+    5,FOMANTIS,14,16
+    35,HOOTHOOT,14,16
+    35,PINECO,14,16
+    25,STARLY,14,15
+HeadbuttHigh
+    5,FOMANTIS,14,16
+    35,HOOTHOOT,14,16
+    35,PINECO,14,16
+    25,STARLY,14,15
+#-------------------------------
+[036] # Route 3
+Land,5
+    10,PAWMI,17,18
+    5,VULPIX,20,25
+    48,HOPPIP,15,17
+    20,MEOWTH,15,17
+    2,PIKACHU,12,13
+LandNight,5
+    35,NATU,17,18
+    60,HOOTHOOT,13,15
+    5,DUSKULL,13,15
+HeadbuttLow
+    5,FOMANTIS,14,16
+    35,HOOTHOOT,14,16
+    35,PINECO,14,16
+    25,STARLY,14,15
+HeadbuttHigh
+    5,FOMANTIS,14,16
+    35,HOOTHOOT,14,16
+    35,PINECO,14,16
+    25,STARLY,14,15
+HoneyTree
+    53,SLAKOTH,7,8
+    20,FLABEBE,7,8
+    20,CHERUBI,7,8
+    7,HERACROSS,7,8

@@ -1,0 +1,234 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[002]   # Oros Town
+Name = Oros Town
+Outdoor = true
+ShowArea = true
+MapPosition = 0,15,18
+#-------------------------------
+[003]   # Oros Town - 1
+Name = Oros Town
+Outdoor = true
+ShowArea = true
+MapPosition = 0,15,18
+#-------------------------------
+[004]   # Professor Willow's Lab
+Name = Professor Willow's Lab
+MapPosition = 0,15,18
+Flags = PokemonLab
+#-------------------------------
+[005]   # Player's house
+MapPosition = 0,15,18
+#-------------------------------
+[006]   # Route 1
+Name = Route 1
+Outdoor = true
+ShowArea = true
+MapPosition = 0,15,17
+#-------------------------------
+[007]   # Route 1 - 1
+Name = Route 1
+Outdoor = true
+ShowArea = true
+MapPosition = 0,15,16
+#-------------------------------
+[008]   # Route 1 - 2
+Name = Route 1
+Outdoor = true
+ShowArea = true
+MapPosition = 0,16,16
+Flags = Forest
+#-------------------------------
+[009]   # Route 1 - 3
+Name = Route 1
+Outdoor = true
+ShowArea = true
+MapPosition = 0,17,16
+Flags = Forest
+#-------------------------------
+[010]   # Drymus Town
+Name = Drymus Town
+Outdoor = true
+ShowArea = true
+MapPosition = 0,17,15
+#-------------------------------
+[011]   # Drymus Town - 1
+Name = Drymus Town
+Outdoor = true
+ShowArea = true
+MapPosition = 0,17,15
+#-------------------------------
+[012]   # Slate's Gym
+Name = Slate's Gym
+MapPosition = 0,17,15
+Flags = GymMap
+#-------------------------------
+[013]   # Drymus Poké Center
+Name = Drymus Poké Center
+HealingSpot = 11,10,11
+MapPosition = 0,17,15
+Flags = PokeCenter
+#-------------------------------
+[014]   # Drymus Pokemon Mart
+MapPosition = 0,17,15
+#-------------------------------
+[015]   # Kurt's House
+MapPosition = 0,17,15
+#-------------------------------
+[016]   # Route 2
+Name = Route 2
+Outdoor = true
+ShowArea = true
+MapPosition = 0,17,14
+#-------------------------------
+[017]   # Route 2 - 3
+Name = Route 2
+Outdoor = true
+ShowArea = true
+MapPosition = 0,14,12
+Flags = Forest
+#-------------------------------
+[018]   # Route 2 - 4
+Name = Route 2
+Outdoor = true
+ShowArea = true
+MapPosition = 0,14,12
+Flags = Forest
+#-------------------------------
+[019]   # Route 2 - 5
+Name = Route 2
+Outdoor = true
+ShowArea = true
+MapPosition = 0,14,12
+Flags = Forest
+#-------------------------------
+[020]   # Route 2 - 2
+Name = Route 2
+Outdoor = true
+ShowArea = true
+MapPosition = 0,14,13
+#-------------------------------
+[021]   # Electrome City
+Name = Electrome City
+Outdoor = true
+ShowArea = true
+MapPosition = 0,14,11
+#-------------------------------
+[022]   # Fisherman's House
+MapPosition = 0,14,11
+#-------------------------------
+[023]   # Electrome Poké Center
+MapPosition = 0,14,11
+#-------------------------------
+[024]   # Seymour's House
+MapPosition = 0,17,15
+#-------------------------------
+[025]   # Route 3 - 1
+Name = Route 3
+Outdoor = true
+ShowArea = true
+MapPosition = 0,12,11
+#-------------------------------
+[026]   # Route 3
+Name = Route 3
+Outdoor = true
+ShowArea = true
+MapPosition = 0,13,11
+#-------------------------------
+[027]   # Elise's Gym
+Name = Electrome Dept. 1F
+MapPosition = 0,14,11
+#-------------------------------
+[028]   # Route 3 - 2
+Name = Route 3
+Outdoor = true
+ShowArea = true
+MapPosition = 0,11,11
+#-------------------------------
+[029]
+Name = Electrome Dept. 3F
+#-------------------------------
+[030]   # Route 3 - 3
+Name = Route 3
+Outdoor = true
+ShowArea = true
+MapPosition = 0,10,11
+#-------------------------------
+[031]   # Route 3 - 4
+Name = Route 3
+Outdoor = true
+ShowArea = true
+MapPosition = 0,10,10
+#-------------------------------
+[032]   # Lost Woods
+Name = Lost Woods
+Outdoor = true
+ShowArea = true
+Weather = Fog,100
+MapPosition = 0,15,13
+Flags = Forest
+#-------------------------------
+[033]   # Route 2 - 1
+Name = Route 2
+Outdoor = true
+ShowArea = true
+MapPosition = 0,18,14
+#-------------------------------
+[034]   # Kela Cave
+Name = Kela Cave
+ShowArea = true
+MapPosition = 0,18,14
+DarkMap = true
+#-------------------------------
+[035]   # Route 3 - 5
+Name = Route 3
+Outdoor = true
+ShowArea = true
+MapPosition = 0,9,10
+#-------------------------------
+[036]   # Route 3 - 6
+Name = Route 3
+Outdoor = true
+ShowArea = true
+MapPosition = 0,8,10
+#-------------------------------
+[037]   # Route 3 - 7
+Name = Route 4
+Outdoor = true
+ShowArea = true
+#-------------------------------
+[039]   # Kela Cave - 1
+Name = Kela Cave
+ShowArea = true
+MapPosition = 0,18,14
+DarkMap = true
+#-------------------------------
+[040]   # Game Corner
+MapPosition = 0,14,11
+#-------------------------------
+[041]   # Electrome Dept. 1F
+MapPosition = 0,14,11
+#-------------------------------
+[042]   # Electrome Dept. 2F
+MapPosition = 0,14,11
+#-------------------------------
+[043]   # Electrome Dept. 3F
+MapPosition = 0,14,11
+#-------------------------------
+[044]   # Electrome Dept. 4F
+MapPosition = 0,14,11
+#-------------------------------
+[045]   # Electrome Dept. 5F
+MapPosition = 0,14,11
+#-------------------------------
+[046]   # Electrome Dept. Rooftop
+MapPosition = 0,14,11
+#-------------------------------
+[047]   # Electrome Dept. Elevator
+MapPosition = 0,14,11
+#-------------------------------
+[048]   # Kela Cave - 2
+Name = Kela Cave
+ShowArea = true
+MapPosition = 0,18,14
+DarkMap = true

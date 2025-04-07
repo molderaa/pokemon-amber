@@ -1,0 +1,29 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[0]
+Name = Elefos
+Filename = mapRegion0.png
+Point = 15,18,Oros Town,,2,7,12
+Point = 15,17,Route 1
+Point = 15,16,Route 1
+Point = 16,16,Route 1
+Point = 17,16,Route 1
+Point = 17,15,Drymus Town,,11,10,11
+Point = 17,14,Route 2
+Point = 17,13,Route 2
+Point = 14,12,Route 2
+Point = 18,14,Kela Cave
+Point = 15,13,Route 2
+Point = 16,13,Lost Woods
+Point = 14,13,Route 2
+Point = 13,11,Route 3
+Point = 12,11,Route 3
+Point = 11,11,Route 3
+Point = 14,11,Electrome City,,21,29,61
+Point = 15,14,Route 2
+Point = 16,14,Lost Woods
+Point = 10,11,Route 3,
+Point = 10,10,Route 3,
+Point = 9,10,Route 3,
+Point = 8,10,Route 3,
+Point = 10,12,Route 4,

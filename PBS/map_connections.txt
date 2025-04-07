@@ -1,0 +1,84 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+# Route 1 - 3 (9) - Route 1 - 2 (8)
+9,West,0,8,East,0
+# Route 2 - 3 (17) - Route 2 - 2 (20)
+17,South,0,20,North,0
+# Route 2 - 4 (18) - Route 2 - 3 (17)
+18,East,0,17,West,0
+# Route 2 - 5 (19) - Route 2 - 3 (17)
+19,East,40,17,West,0
+# Route 2 - 4 (18) - Route 2 - 2 (20)
+18,East,40,20,West,0
+# Route 2 - 5 (19) - Route 2 - 4 (18)
+19,South,0,18,North,0
+# Route 2 - 5 (19) - Route 2 - 2 (20)
+19,East,80,20,West,0
+# Route 3 - 1 (25) - Route 3 - 2 (28)
+25,West,0,28,East,0
+# Route 3 (26) - Route 3 - 1 (25)
+26,West,0,25,East,0
+# Route 3 - 4 (31) - Route 3 - 1 (25)
+31,South,80,25,North,0
+# Route 3 - 5 (35) - Route 3 - 1 (25)
+35,South,120,25,North,0
+# Route 3 - 6 (36) - Route 3 - 1 (25)
+36,South,160,25,North,0
+# Route 3 - 7 (37) - Route 3 - 1 (25)
+37,North,80,25,South,0
+# Route 3 - 4 (31) - Route 3 (26)
+31,South,120,26,North,0
+# Route 3 - 5 (35) - Route 3 (26)
+35,South,160,26,North,0
+# Route 3 - 6 (36) - Route 3 (26)
+36,South,200,26,North,0
+# Route 3 - 7 (37) - Route 3 (26)
+37,North,120,26,South,0
+# Route 3 - 2 (28) - Route 3 - 3 (30)
+28,West,0,30,East,0
+# Route 3 - 4 (31) - Route 3 - 2 (28)
+31,East,40,28,West,0
+# Route 3 - 5 (35) - Route 3 - 2 (28)
+35,South,80,28,North,0
+# Route 3 - 6 (36) - Route 3 - 2 (28)
+36,South,120,28,North,0
+# Route 3 - 7 (37) - Route 3 - 2 (28)
+37,North,40,28,South,0
+# Route 3 - 4 (31) - Route 3 - 3 (30)
+31,South,0,30,North,0
+# Route 3 - 5 (35) - Route 3 - 3 (30)
+35,East,40,30,West,0
+# Route 3 - 6 (36) - Route 3 - 3 (30)
+36,South,80,30,North,0
+# Route 3 - 7 (37) - Route 3 - 3 (30)
+37,North,0,30,South,0
+# Route 3 - 5 (35) - Route 3 - 4 (31)
+35,East,0,31,West,0
+# Kela Cave (34) - Kela Cave - 1 (39)
+34,North,0,39,South,0
+# Kela Cave - 2 (48) - Kela Cave (34)
+48,East,40,34,West,0
+# Route 3 - 6 (36) - Route 3 - 5 (35)
+36,East,0,35,West,0
+# Route 3 - 7 (37) - Route 3 - 5 (35)
+37,West,0,35,East,80
+# Kela Cave - 2 (48) - Kela Cave - 1 (39)
+48,East,0,39,West,0
+# Drymus Town (10) - Drymus Town - 1 (11)
+10,East,0,11,West,0
+# Route 2 (16) - Drymus Town - 1 (11)
+16,South,21,11,North,0
+# Route 2 (16) - Drymus Town (10)
+16,South,0,10,North,19
+# Route 2 - 1 (33) - Route 2 (16)
+33,West,0,16,East,0
+# Oros Town - 1 (3) - Oros Town (2)
+3,East,0,2,West,0
+# Route 1 (6) - Oros Town (2)
+6,East,40,2,West,0
+# Route 1 - 1 (7) - Oros Town (2)
+7,East,80,2,West,0
+# Route 1 (6) - Oros Town - 1 (3)
+6,South,0,3,North,0
+# Route 1 - 1 (7) - Route 1 (6)
+7,South,0,6,North,0

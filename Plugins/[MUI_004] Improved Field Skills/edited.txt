@@ -1,0 +1,2 @@
+[001] Field Skills
+    Made field skills show only if the Pokemon has learned the move

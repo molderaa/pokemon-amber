@@ -1,0 +1,4 @@
+Name         = Starter Selection
+Version      = 1.0
+Essentials   = 21.1
+Credits      = nil

@@ -1,0 +1,2 @@
+[002] Main page
+    Removed move and held item lists from the Pokedex page

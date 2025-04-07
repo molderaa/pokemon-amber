@@ -1,0 +1,5 @@
+﻿Name       = Fly Animation
+Version    = 1.0
+Essentials = 21.1
+Website    = nil
+Credits    = nil

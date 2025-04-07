@@ -1,0 +1,5 @@
+Name       = Beedrill Attack
+Version    = 1.0
+Essentials = 21.1
+Link       = nil
+Credits    = nil
