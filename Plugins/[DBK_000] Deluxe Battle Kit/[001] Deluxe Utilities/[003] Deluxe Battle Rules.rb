@@ -488,6 +488,7 @@ class Battle
         name = (wildBattle?) ? foe.name : foe.full_name
         foe_names.push(name)
       end
+      @scene.pbAnimateTrainerIntros if defined?(@scene.pbAnimateTrainerIntros)
       pbDisplayPaused(_INTL("#{@introText}", *foe_names))
       [1, 0].each do |side|
         next if side == 1 && wildBattle?
